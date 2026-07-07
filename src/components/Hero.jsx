@@ -19,7 +19,7 @@ const Hero = () => {
           <div className="flex flex-col gap-6">
             <h1 className="text-white font-black text-[48px] sm:text-[64px] leading-tight">
               IT’S ME <br />
-              <span className="text-[#915eff]">UMANG LODAYA</span>
+              <span className="text-[#915eff]">YODA COMPANY</span>
             </h1>
 
             <p className="text-[#dfd9ff] max-w-xl text-[18px] leading-relaxed">

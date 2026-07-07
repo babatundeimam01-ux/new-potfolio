@@ -74,11 +74,11 @@ const profileLinks = [
 
 const services = [
   {
-    title: 'Software Engineer',
+    title: 'Yoda Company',
     icon: creator,
   },
   {
-    title: 'DevOps Engineer',
+    title: 'Develop Engineer',
     icon: backend,
   },
   {
@@ -86,32 +86,25 @@ const services = [
     icon: mobile,
   },
   {
-    title: 'Data Engineer & Analyst',
+    title: 'DEVELOP & Analyst',
     icon: web,
   },
 ];
 
 const experiences = [
   {
-    title: 'Software Engineer',
-    company_name: 'BNP Paribas ISPL',
+    title: 'Web Developer & Software Engineer',
+    company_name: 'Yoda Company',
     icon: bnp,
     iconBg: '#E6DEDD',
     date: 'Jun 2024 - Present',
     points: [
-      'Built and maintained DEV environment from scratch to support QA automation, ensuring isolation from development workflows and improving release reliability.',
-      'Acted as Release Manager for multiple critical releases, coordinating deployments, validations, and rollback readiness across environments.',
-      'Designated as Local DevOps Champion for the team; drove adoption of Jenkins, Docker, and Kubernetes through internal enablement and hands-on support.',
-      'Developed and maintained internal applications including CDUS, contributing to both feature development and production support.',
-      'Led MQ migration as part of Project Commission, ensuring minimal disruption and compliance with enterprise standards.',
-      'Contributed to AI initiatives by building RASA-based FAQ chatbots and experimenting with AI-powered SQL generation for internal use cases.',
-      'Provided L3-level production support and actively collaborated with cross-functional teams during incidents and onshore stakeholder visits.',
-      'Tech Stack: Java, Python, Spring Boot, Docker, Ansible, Jenkins, AI.',
+      'Develop a full web using longchain AI and LLMS.',
     ],
   },
   {
-    title: 'Data Science Engineer',
-    company_name: 'GoChanakya',
+    title: 'Web Developer ',
+    company_name: 'Yoda Company',
     icon: gochanakya,
     iconBg: '#E6DEDD',
     date: 'Jun 2023 - May 2024',
@@ -124,7 +117,7 @@ const experiences = [
   },
   {
     title: 'Machine Learning Intern',
-    company_name: 'Suvidha Foundation',
+    company_name: 'Yoda Company',
     icon: suvidha,
     iconBg: '#383E56',
     date: 'Feb 2023 - Mar 2023',

@@ -1,6 +1,6 @@
 import logo from '/assets/personal/logo.png';
 
-import profileImg from '/assets/personal/profile.jpg';
+import profileImg from '/assets/personal/profile.avif';
 
 import creator from '/assets/services/creator.png';
 import backend from '/assets/services/backend.png';

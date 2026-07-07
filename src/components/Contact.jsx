@@ -121,7 +121,7 @@ const Contact = () => {
                 <p className="text-secondary mt-2 text-sm">
                   Reach me directly at{' '}
                   <span className="text-white break-all">
-                    lodayaumang71@gmail.com
+                    babatundeimam01@gmail.com
                   </span>
                 </p>
               </div>
@@ -132,7 +132,7 @@ const Contact = () => {
                 <h4 className="text-white text-xs uppercase tracking-wide">
                   Location
                 </h4>
-                <p className="text-secondary text-sm mt-1">Mumbai, India</p>
+                <p className="text-secondary text-sm mt-1">Nigeria, Osun</p>
               </div>
             </div>
           </div>
