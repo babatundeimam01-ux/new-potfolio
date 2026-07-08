@@ -98,9 +98,7 @@ const experiences = [
     icon: bnp,
     iconBg: '#E6DEDD',
     date: 'Jun 2024 - Present',
-    points: [
-      'Develop a full web using longchain AI and LLMS.',
-    ],
+    points: ['Develop a full web using longchain AI and LLMS.'],
   },
   {
     title: 'Web Developer ',
